@@ -1,16 +1,9 @@
 # photos
 
-A new Flutter project.
+A Flutter project showing images from pexel free public API.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- API key is 'https://api.pexels.com/v1/curated?page=1&per_page=28'
+- Also added some features like, bookmarks, download photos, share photos and view in browsers.
+- I have used th medium quality photo to show. Otherwise the original photos are to large to download and it takes lots of time to cache them as well.
